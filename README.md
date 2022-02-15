@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakiyudin
 - 👀 I’m interested in sports, tech, and absolutly a CATS
-- 🌱 I’m currently learning NodeJs, ExpressJs, RestFull API
+- 🌱 I’m currently learning as backend engineer (NodeJs, Laravel, ExpressJs)
 - 💞️ I’m looking to collaborate on open source project for beginner to advance
 - 📫 How to reach me https://instagram/zakiyudinKF 
 
