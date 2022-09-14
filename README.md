@@ -5,7 +5,7 @@
 - 📨 And I'm received a project related to web development
 - 📫 How to reach me https://instagram/zakiyudinKF 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zakiyudin)](https://github.com/anuraghazra/github-readme-stats)
+![Zaki GitHub stats](https://github-readme-stats.vercel.app/api?username=zakiyudin&show_icons=true&theme=radical)
 <!---
 zakiyudin/zakiyudin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
